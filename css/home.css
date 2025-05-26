@@ -25,6 +25,21 @@
   margin-bottom: 0.5rem;
   font-weight: bold;
 }
+.butns{
+      padding: 15px 30px;
+  border: 2px solid #2c2c2c;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 30px;
+  transition: all 0.4s ease;
+  outline: none;
+  position: relative;
+  overflow: hidden;
+  font-weight: bold;
+
+}
 
 .hero h2 {
   font-size: 1.8rem;
